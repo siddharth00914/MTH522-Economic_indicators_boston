@@ -6,6 +6,8 @@ This project analyzes and forecasts key economic indicators in Boston from 2013 
 •	 Investigate the link between international flights and hotel occupancy
 •	 Identify economic phases using clustering
 •	 Forecast hotel prices and passenger traffic using SARIMA models
+
+
 🛠️ Tools & Technologies
 
 •	Python
@@ -13,6 +15,8 @@ This project analyzes and forecasts key economic indicators in Boston from 2013 
 •	 scikitlearn (Linear Regression, KMeans Clustering)
 •	 statsmodels (SARIMA/SARIMAX)
 •	GitHub for version control
+
+
 📈 Key Findings
 •	Strong correlation (📉 0.829) between unemployment and median housing prices  
 •	Moderate correlation (✈️ 0.528) between international flights and hotel occupancy  
